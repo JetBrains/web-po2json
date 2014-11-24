@@ -1,0 +1,17 @@
+{
+  "name": "po2json",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "angular-gettext-tools": "*",
+    "webpack": "^1.3.7",
+    "webpack-dev-server": "^1.6.1",
+    "json-loader": "~0.5.1",
+    "node-libs-browser": "~0.4.1",
+    "jquery":"~1.11.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {}
+}
