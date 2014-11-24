@@ -4,15 +4,19 @@
 </head>
 <body>
 <script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+
 <div class="header">
 
 </div>
-<div class ="content">
+<div class="content">
     <div class="input-wrapper">
-    <input type="file" id="inputFile" multiple onchange="fileSelected(files)"/>
+        <input type="file" id="inputFile" multiple onchange="fileSelected(files)"/>
+    </div>
+    <div class="messages-wrapper">
+        <ul id="list"> </ul>
     </div>
 </div>
-<div class="footer" ></div>
+<div class="footer"></div>
 
 </body>
 </html>
