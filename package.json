@@ -8,7 +8,7 @@
     "webpack-dev-server": "^1.6.1",
     "json-loader": "~0.5.1",
     "node-libs-browser": "~0.4.1",
-    "jquery": "~1.11.0",
+    "jquery": "~> 3.0.0",
     "filesaver.js": "*"
   },
   "engines": {
